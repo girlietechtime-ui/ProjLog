@@ -1,0 +1,31 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Welcome to Riley's Terminal!</h1>
+			<p>
+				Welcome to my homepage, girlboss! I'm Riley, your resident project creator. 
+				If you need me, I'll be in the <a href="/about">About</a> page, 
+				If you're here to listen to my ramblings about my personal life, that'll be in my <a href="/blog">blog</a>, and if you are here to 
+				peek at the projects under the hood, check out the <a href="/ProjLog">ProjLog</a>, my latest project inception. 
+			</p>
+			<p>
+				If you want to contribute to the list of projects or were inspired to create your own through my lists, please reach out to me so I can
+				thank you personally. I'm always supportive of creators who want to create, but can't find a project to start on. If you need more specific 
+				information on any details listed out, also reach out. I love meeting new people, especially fellow creators!!
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
