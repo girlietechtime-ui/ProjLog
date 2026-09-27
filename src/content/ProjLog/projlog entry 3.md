@@ -2,7 +2,7 @@
 title: 'ProjLog entry 3- Project: BT-7274'
 description: 'the design came three years before the project - engineering horro story'
 pubDate: 'May 26 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/BT-7274_helmet.jpg'
 ---
 PROJECT: BT-7274
 ----------------

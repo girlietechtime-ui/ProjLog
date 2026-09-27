@@ -2,7 +2,7 @@
 title: 'transitioning- my experience so far'
 description: 'hows it going?'
 pubDate: 'May 25 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/estrogun.jpg'
 ---
 
 To intro this blog, I'm transfem. If you're out of the loop on LGBTQ terminology, this is when you were asigned male at birth (AMAB), but want to be a woman. While this definition is short, that's on purpose, becuase the term Trans can mean a lot to a lot of people. I, personally, choose a more traditional meaning through actively taking steps to make myself look/feel/appear more feminine in my daily life. Not everyone you meet who's transfem will follow this sentiment, so rememebr to be respectful to those who aren't ready to be themselves yet. 
@@ -19,4 +19,4 @@ After that point though, it didn't seem as hard as I had thought. The seed was p
 
 I now sit in a weird in-between, having not cut my hair in a year, buying more and more feminine clothing, and exploring sides of myself sexually I never would have dared, all while patiently waiting on the one thing I need: Estrogen. I feel happier when I see the Girl in me express herself, when I get called a "her" or a "she" my stomach does backflips. When I get to see myself in the mirror, though, I don't see me. I see a girl that's pretending to be a guy for her parent's sake, and it brings me joy to think that one day that won't be a problem. 
 
-I would like to thank a few people for their help in this. Noteably, my freshman roomates in college who didn't give a fuck what I did, and Lucy, the girl who cracked my egg, who somehow allows me to still be around her after crushing on her multiple times in shared communities and knowing what makes me "tick". Y'all are the reason I'm still on this earth, whether I want to be or not.
+I would like to thank a few people for their help in this. Noteably, my freshman roomates in college who didn't give a fuck what I did, and Lucy, the girl who cracked my egg. Y'all are the reason I'm still on this earth, whether I want to be or not.

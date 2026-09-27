@@ -1,33 +1,26 @@
 ---
-title: 'My most important life experience'
-description: 'this makes me who I am.'
-pubDate: 'May 25 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+title: 'learning with purpose: how I climb the learning curve'
+description: 'hard climb.'
+pubDate: 'May 26 2026'
+heroImage: '../../assets/jincpope-1.jpg'
 ---
 
-I'm not an emotional girl (yet, leave estrogen to do that to me), but there have been some points in my life where I have broken down, whether that be in front of my parents, alone, or in this instance, at the touch of a friend. 
+I am not good with learning.
 
-I will assume you've read my first post about my transition goals and my switch flipping. The part that messed with me the most was Lucy. Lucy, as stated in the first post, is my main inspiration for transitioning, and a role model in my life. She has taught me everything I needed to know about transitioning, and was the person whom showed me to a community I would have never joined otherwise. While I don't honestly know my feelings for her, she's made hers pretty clear; she's not into me.
+I have ADHD, and was diagnosed as a small child. The focus of said diagnosis has been the reason I fail classes, the reason I lose interest in projects, and the reason I can't keep up good relationships: Executive Functioning.
 
-My personal life only revolves around a few people, one of which is her, and if I lost this connection, I know I would be toast, so I follow the boundaries. But, as of very recently, she has started acting more as a "owner" than a friend. If you know what I mean, you can see how this blurs a person's sense of relationship. 
+If you struggle with this specific flavor of ADHD, you know how hard it is to do anything worthwhile when it provides no direct reward. You also know how hard it is to force yourself to learn. Both of these make anything that requires a learning curve extremely difficult to work on, much less start. I haven't found a way to get rid of this, nor a way to make it easier to get past the initial roadblock. However, I can give some tips and advice on how to make the journey more bearable!
 
-Anyways. May 17th, 2026. I got home from college the week prior and desperately wanted to see my friend. we talked, and I made a excuse to say that it was for her dog, but I think we both know that she was the reason I came over. I missed her dearly, and hearing about how she had started Estrogen only weeks before I left for my second semester had made me anxious to see how she had changed. Well, on the drive over, I was sending myself into a anxiety meltdown because I was thinking of how to act, how to keep myself together, and when I went to run my hands through my hair as a stim, I relaized something horrifying; I didn't wash all of my condidtioner out of my hair. I stopped, and nearly cried, sitting outside of her house. 
+step 1. Don't overthink.
+---
+I know how hard this is to do, and I will say, I had to practice this ad nauseum, but think of it like getting a shot. You shouldn't wait thirty minutes to do it, needle in hand, overthinking the feeling of it going in. That's how you scare yourself. No, you get it done. You find the injection point, stab it in, and push the plunger until you're done. If you ask questions at the start, you'll never get to the end. Some projects are like that. You have the money? You have the time? go ahead and start. That's how I ended up installing Arch right before college finals, and finishing my BT-7472 AI the night before a calculus final. Both of which I succeeded in, and used as motivators to get the work done.
 
-Going in, I tried not to stare at her. This was an impossible task. I'm freaking out, trying not to make it clear that I'm barely holding it together, of which she never commented on. Once I see the dog though, I know I'll be okay. 
+Just don't ask for my grades on those finals. 
 
-After about two hours of petting said dog, I forget about my hair. and after four more hours of hanging out with Lucy, going back and forth and laughing, I'm doing fine. Then, after getting on call with a mutual friend and future roommate of ours, things take a turn. I don't think Lucy wanted to call them to be honest, but I felt bad refusing. And during this call, she pet my head. I tried to do so back, but it was unfamiliar to me, and I was already fulstered again, so much that I had to remove my sweatshirt in the 60 degree F basement, so it wasn't a good as I wanted. Her hair felt so soft, I wanted to leave my hand on it forever, but alas, no dice. 
+step 2. give yourself small goals.
+---
+I remember a point made by one of the many "how to do ___ with ADHD" books given to me by my parents: "To clean a room, start by sectioning it off into small parts. A messy side of the desk, a windowsill with dust and plants, the floor under your desk, just give yourself a place to start and work from there." use a clean area as a "sorting" pile, and understand that to keep stuff, you must get rid of other items to make way for the stuff you want to keep. Just move slow, and remember to step away if it's overwhelming.
 
-Once she pet me, however, things felt different. Any fun conversations had on the computer turned... real. I was a downright mess past this point. I broke down a little bit and told her about my hair, and she tried to comfort me, but the first time I got to see her, and I had fucked up hair. And when I went to leave for the night, after some more heartfelt talk, she got up out of her chair. Walked over to where I was standing. And hugged me. I couldn't hold back much more. 
-
-I don't take physical touch very well. I don't like it from my parents, from other people, from anyone. But that hug. That hug made me realize two things: 
-
-1. I'm touching her. oh my god I'm touching her. and she's touching me. oh my fucking god she's touching me. 
-2. I really, really like physical touch from her. 
-
-That hug lasted hours for me, and I was barely not crying. She asked if I was alright, I said I will be fine, and we parted, and I left for my car. 
-
-When I got back to my car, I broke down. For fifteen straight minutes I cried heavily, with so many thoughts of how I couldn't handle myself in front of a friend, of how I felt like I had ruined any chance of a relationship, no matter how small, that I had made things worse for her than they already were, and worst of all to me, made me want her more. Not sexually, get your mind out of the gutter, but as a person. She was so nice to someone who showed no care and prep for coming over, who sat around, barely making enough conversation to keep it up, and who she could have just removed from her life for overstepping boundaries. I sobbed, expecting a text saying that my behavior was awful and that I needed to check myself, but all I got was a text asking if I was gonna be okay. From Lucy. And then I drove home, hopped on the exact call I was just on, and held it together until I decided enough was enough, and went to bed.
-
-To end a story, I want to add some after thoughts of my own. First of all; I don't really know if I like her in a romantic way, but I do know that I like her for herself. That part has been made clear. Second; I'm so grateful she still talks to me. I feel that I would be devestated if she didn't. And third; I so desperately want a second chance. I know I'm making it sound like I did something horrible. I did nothing that didn't already fall into her boundaries, I just feel like such a stupid idiot for the mistakes I made. I just want a day where I can come over and hang with her again, and do everything we talked about doing. 
-
-Thank you for reading, I know this is a Lucy-centric post, but I wanted to get it out of the way before I continued on. 
+Step 3. Create simple comparisons.
+---
+Understanding a wide range of concepts is hard for the ADHD brain. To help combat this, I started creating comparisons of topics I was learning to topics I knew by heart. I found out that doing this also increases the likelihood of said topic being adhered to the snowball of knowledge in my mind. To give a example, I found it easy to compare 

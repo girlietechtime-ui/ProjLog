@@ -2,7 +2,7 @@
 title: 'ProjLog- the start to something new'
 description: 'maybe first times the charm?'
 pubDate: 'May 24 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/sunset_projlog1.jpg'
 ---
 
 Well, maybe I'm starting something new.
@@ -21,7 +21,7 @@ As a gauge for the usefullness, I've created a projlog rating system, also known
 2. Uniqueness: 0 means that a project isn't any different than something that already exists. 5 meaning that a project is virtually unheard of or extremely rare.
 3. Scale: 0 means a project would require too many steps to complete. 5 means that it has two or less steps.
 4. Budget: 0 means that a projects final price is so high that i'd need to win the lottery to complete it. 5 means it costs nothing to me, or less than $50 for you. 
-5. Usefulness: 0 means that the project lacks any use at all. 5 means that a project is so useful it's hard to understand why every doesn't own one of these.
+5. Usefulness: 0 means that the project lacks any use at all. 5 means that a project is so useful it's hard to understand why everyone doesn't own one of these.
 
 Hopefully every projlog post will contain a label for how far it's completed, a PRS rating, and a decent description, with tips for any people who want to use the ideas listed. I promise to flesh out any ideas presented with enough detail to make a decent mental picture. Now, to make a example of what I'm talking about:
 
